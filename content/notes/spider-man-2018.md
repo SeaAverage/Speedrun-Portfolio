@@ -117,6 +117,8 @@ Reload checkpoint when you drop down from beam
 
 ## Act 2: 
 
+### Tombstone stuff
+
 Warp to Vaccinate the Fish (Hells Kitchen)
 Backpack skip "this is a gang war" 
 head south, take road
@@ -132,13 +134,15 @@ after Feast: warp to Lab
 Head far NE to research station
 MJ call "dinner" backpack skip
 Go N on road to other research station. (Reboot Times Square)
-Head SE to MJ's (through park with arc de triump
+Head SE to MJ's (through park with arc de triump)
 can skip 1st cutscene but not 2nd 
 
 Sneak: straight, knock over tools, turn, turn right when guy crosses path
 activate generator after cutscene, slow walk to right, pass on left
-SPLIT
 
+**SPLIT**
+
+### Sable Encampment
 warp to data chain (south middle) 
 Skip opening door
 
@@ -157,8 +161,10 @@ touch right, go left. Distract and go up stairs, take photo
 run down stairs, generator, right to truck
 say right behind front wheel until barrels, behind guy in front of you
 behind tent into exit (go longer way around)
-SPLIT 
 
+**SPLIT** 
+
+### No idea what this split is
 head northeast towards Upper East PD tower
 "I thought we broke up" backpack skip
 then north west for Harlem PD
@@ -174,12 +180,14 @@ finish fight before Sable talks, use concussive blast on whip
 "Show me youre true strength head to middle
 can't skip till eagle
 warp to smog
-SPLIT
 
+**SPLIT**
+
+### Jailbreak?
 square drone, vent, drone
 jump over railing, left stairs, Skip
 Bomb: 2 over- bottom, 2nd from top, under, first
-SKip after train breaks
+Skip after train breaks
 
 go to Ocks.
 wait 2 minutes
@@ -191,10 +199,13 @@ Jump over first set of guys over bridge
 skip cutscene on police tower guy
 web blossom last fight
 Skip Spidy getting on Yuri's chopper and after
-can SKip most cutscenes in first couple rooms
-SPLIT
+can Skip most cutscenes in first couple rooms
 
-Act III: 
+**SPLIT**
+
+## Act III:
+
+## Vulture
 Can skip after Spidy drowning up until broken bones
 Reload checkpoint.
 Backpack skip after cutscene
@@ -205,12 +216,14 @@ Head NE after fight during Yuri dialogue, SKip 3
 
 Warp to Times Square
 BP Skip When lights are on, switch to quad damage
-Go straight to towr with "oscorp"  
+Go straight to tower with "oscorp"  
 Jump, web, quad damage Vulture when jumping to him (may need levels)
 from here basic stun then attack each in turn (focus electro down)
 Can Skip when Spidy on pole
-SPLIT
 
+**SPLIT**
+
+## Rhino
 Warp to Harlem
 Skip first cutscene
 Look up strat for fight at end  
@@ -224,7 +237,10 @@ Wait for Miles dialogue, warp to "Ventilate" in Harlem
 
 Phase 1: dodge right, take out Rhino
 Phase 2: dodge straight backwards, quad damage Rhino, go fight Scorpion
-SPLIT  
+
+**SPLIT**  
+
+## Final MJ and Martin Li
 Wait for Yuri dialogue, FT to Upper East Side
 
 Reel left to see elevator, talk to people
@@ -240,10 +256,13 @@ trip mine jetpack dudes
 Skip walking in darkness door
 quad damage demon phase, reset checkpoint, quad damage demon phase again
 can skip once Li starts falling
-SPLIT
 
+**SPLIT**
+
+## Final Oct
 Warp to Oct Industries, finish it
 throwing stuff does most damage
-try to not do full combos on side of building0 
+try to not do full combos on side of building 
 one projectile when on top of tower is all you need
-SPLIT
+
+**End**

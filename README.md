@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Speedrunning Notes and Portfolio
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Allows for easy access of markdown formatted speedrun notes as well as a dynamic page displaying your PBs
 
 ## Setup
 
@@ -38,40 +38,3 @@ yarn dev
 bun run dev
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-# speedrun-portfolio
-# speedrun-portfolio
