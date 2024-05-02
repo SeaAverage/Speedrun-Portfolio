@@ -205,7 +205,7 @@ can Skip most cutscenes in first couple rooms
 
 ## Act III:
 
-## Vulture
+### Vulture
 Can skip after Spidy drowning up until broken bones
 Reload checkpoint.
 Backpack skip after cutscene
@@ -223,7 +223,7 @@ Can Skip when Spidy on pole
 
 **SPLIT**
 
-## Rhino
+### Rhino
 Warp to Harlem
 Skip first cutscene
 Look up strat for fight at end  
@@ -240,7 +240,7 @@ Phase 2: dodge straight backwards, quad damage Rhino, go fight Scorpion
 
 **SPLIT**  
 
-## Final MJ and Martin Li
+### Final MJ and Martin Li
 Wait for Yuri dialogue, FT to Upper East Side
 
 Reel left to see elevator, talk to people
@@ -259,7 +259,7 @@ can skip once Li starts falling
 
 **SPLIT**
 
-## Final Oct
+### Final Oct
 Warp to Oct Industries, finish it
 throwing stuff does most damage
 try to not do full combos on side of building 
