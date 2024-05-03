@@ -13,7 +13,7 @@
                         </div>
                         <div class="flex items-center justify-between text-sm">
                             <div class="font-semibold">{{ personalBest.category.data.name }}</div>
-                            <div class="font-semibold">{{ convertTime(personalBest.run.times.primary) }}</div>
+                            <div class="font-semibold">{{ convertTime(personalBest.run.times.primary_t) }}</div>
                         </div>
                     </a>
                 </li>
@@ -23,25 +23,23 @@
 </template>
 
 <script setup lang="ts">
-    import prettyMilliseconds from 'pretty-ms';
-
 
 
     const { error, pending, data } = await useFetch('https://www.speedrun.com/api/v1/users/7j4p63wj/personal-bests?embed=game,category');
 
     const pbs = computed(
-        () => data.value?.data.sort((a, b) => a.place - b.place)
+        () => data.value?.data.sort((a: any, b: any) => a.place - b.place)
     )
 
 </script>
 
 <script lang="ts">
-    function convertTime(pbTime) {
-        const timeInterpreter = require("@onereach/time-interpreter");
-        const converter = new timeInterpreter();
-        let convertedTime1 = converter.formatDuration(pbTime)
-        let convertedTime2 = prettyMilliseconds(convertedTime1, { colonNotation: true })
-        return convertedTime2
+    import prettyMilliseconds from 'pretty-ms';
+
+    function convertTime(pbTime: number) {
+        let millisecondTime = pbTime * 1000
+        let convertedTime = prettyMilliseconds(millisecondTime, { colonNotation: true })
+        return convertedTime
     }
 
 </script>

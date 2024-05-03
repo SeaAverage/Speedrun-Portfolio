@@ -2,4 +2,4 @@
 
 Check out my PBs!
 
-::project-list
+::pb-list

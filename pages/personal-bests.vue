@@ -1,11 +1,11 @@
 <template>
     <article class="prose dark:prose-invert max-w-none">
-        <ContentDoc path="/projects" />
+        <ContentDoc path="/personal-bests" />
     </article>
 </template>
 
 <script setup>
     useHead({
-        title: 'Projects'
+        title: 'Personal Bests'
     })
 </script>

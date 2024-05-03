@@ -36,7 +36,7 @@
 
         const observer = new IntersectionObserver(callback, {
             root: null,
-            threshold: 0.75
+            threshold: 0.50
         })
         const elements = document.querySelectorAll('h2, h3')
 

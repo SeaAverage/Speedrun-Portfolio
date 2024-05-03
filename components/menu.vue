@@ -11,7 +11,7 @@
                 <NuxtLink to="/notes" class="link">Notes</NuxtLink>
             </li>
             <li>
-                <NuxtLink to="/projects" class="link">Personal Bests</NuxtLink>
+                <NuxtLink to="/personal-bests" class="link">Personal Bests</NuxtLink>
             </li>
         </ul>
     </nav>

@@ -7,8 +7,7 @@
         <ul>
             <li v-for="post in posts" :key="post._path">
                 <NuxtLink :to="post._path" class="column hover:bg-gray-100 dark:hover:bg-gray-800">
-                    <div
-                        :class="{ 'text-transparent': !post.displayYear, 'text-gray-400 dark:text-gray-500': post.displayYear }">
+                    <div :class="{ 'text-transparent': !post.displayYear }">
                         {{ post.game }}</div>
                     <div>{{ post.category }}</div>
                 </NuxtLink>
@@ -48,6 +47,6 @@
 
 <style scoped>
     .column {
-        @apply flex justify-between ml-auto mr-auto max-w-xl py-2 border-b border-gray-200 dark:border-gray-700
+        @apply flex justify-between ml-auto mr-auto max-w-2xl py-2 border-b border-gray-200 dark:border-gray-700
     }
 </style>
